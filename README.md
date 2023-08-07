@@ -41,10 +41,10 @@ international regulations and standards.</br>
 dedicate resources to managing assets. Additionally, they will need to determine the
 impact of the loss of existing assets, including systems, on business continuity.</br>
 
-<b?<br>Risk score</br></b>
+<b><br>Risk score</br></b>
 <br>On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of
 controls and adherence to necessary compliance regulations and standards.
-<b?<br>Additional comments</br></b>
+<b><br>Additional comments</br></b>
 <br>The potential impact from the loss of an asset is rated as a medium because the IT
 department does not know which assets would be lost. The likelihood of a lost asset or
 fines from governing bodies is high because Botium Toys does not have all of the
