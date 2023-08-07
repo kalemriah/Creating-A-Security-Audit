@@ -11,9 +11,9 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist.
 
-<h2>Step 1: Reviewing Audit Scope and Goals / Reviewing Risk assessment </h2>
+<h2>Step 1: Reviewing Audit Scope and Goals / Reviewing Risk Assessment </h2>
 
-Botium Toys: Risk assessment
+<b>Botium Toys: Risk assessment</b>
 
 Current assets
 Assets managed by the IT Department include:
@@ -32,19 +32,19 @@ management</br>
 <br>● Badge readers</br>
 <br>● Legacy system maintenance: end-of-life systems that require human
 monitoring</br>
-<br>Risk description</br>
+<b><br>Risk description</br></b>
 <br>Currently, there is inadequate management of assets. Additionally, Botium Toys does
 not have the proper controls in place and may not be compliant with the U.S. and
 international regulations and standards.</br>
-<br>Control best practices</br>
+<b><br>Control best practices</br></b>
 <br>The first of the five functions of the NIST CSF is Identify. Botium Toys will need to
 dedicate resources to managing assets. Additionally, they will need to determine the
 impact of the loss of existing assets, including systems, on business continuity.</br>
 
-<br>Risk score</br>
+<b?<br>Risk score</br></b>
 <br>On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of
 controls and adherence to necessary compliance regulations and standards.
-<br>Additional comments</br>
+<b?<br>Additional comments</br></b>
 <br>The potential impact from the loss of an asset is rated as a medium because the IT
 department does not know which assets would be lost. The likelihood of a lost asset or
 fines from governing bodies is high because Botium Toys does not have all of the
@@ -103,55 +103,57 @@ management</br>
 
 <br>Goals:</br>
 
-<br>Improve Botium Toys’ current security posture by aligning to industry best practices (e.g., adhere to the NIST CSF, implement the concept of least permissions)</br>
-<br>Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks</br>
-<br>Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how we accept payments</br>
-<br>To review the full report, read the Botium Toys: Audit Scope and Goals document</br>
+<br>● Improve Botium Toys’ current security posture by aligning to industry best practices (e.g., adhere to the NIST CSF, implement the concept of least permissions)</br>
+<br>● Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks</br>
+<br>● Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how we accept payments</br>
+<br>● To review the full report, read the Botium Toys: Audit Scope and Goals document</br>
 
 <br>Risks:</br>
 
-<br>Inadequate management of assets</br>
-<br>Proper controls are not in place</br>
-<br>May not be compliant with U.S. and international regulations and guidelines</br>
-<br>The current risk score is 8/10 (high), due to a lack of controls and adherence to compliance regulations and standards</br>
-<br>To review the complete list of assets and risks, read the Botium Toys: Risk Assessment document </br>
+<br>● Inadequate management of assets</br>
+<br>● Proper controls are not in place</br>
+<br>● May not be compliant with U.S. and international regulations and guidelines</br>
+<br>● The current risk score is 8/10 (high), due to a lack of controls and adherence to compliance regulations and standards</br>
+<br>● To review the complete list of assets and risks, read the Botium Toys: Risk Assessment document </br>
 
 <br>Thank you,</br>
 <br>Botium Toys IT Manager</br>
 
-<b>Questions to review </b></br>
-<br>What are the biggest risks to the organization?</br>
-<br>-Currently, the biggest risk is the lack of controls and adherence to necessary compliance regulations and standards</br> 
-<br>Which controls are most essential to implement immediately versus in the future?</br>
-<br>-Currently, controls are in place and are not adhering to required regulations and standards related to keeping customer data private need to be implemented immediately, or governing bodies will fine Botium Toys. The risk assessment ranks this as a high threat. To implement these controls, Implement the concept of least permissions when it comes to user credential management. In the future, establishing a better process for their systems to ensure they're compliant, and establish their policies and procedures, which includes their playbooks. The reason is the potential impact from the loss of an asset is currently only rated at a medium.</br>
-<br>Which compliance regulations do Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?</br>
-<br>-Currently, Botium Toys does not have the proper controls in place and may not be compliant with U.S. and international regulations and standards. Botium Toys need to adhere to the required regulations and standards related to keeping customer data private and this needs to be implemented immediately.</br>
+<h3>Questions to review </h3></br>
+<br><b>Question: </b> What are the biggest risks to the organization?</br>
+<br><b>Response</b>-Currently, the biggest risk is the lack of controls and adherence to necessary compliance regulations and standards</br> 
+<br><b>Question: </b>Which controls are most essential to implement immediately versus in the future?</br>
+<br><b>Response</b>-Currently, controls are in place and are not adhering to required regulations and standards related to keeping customer data private need to be implemented immediately, or governing bodies will fine Botium Toys. The risk assessment ranks this as a high threat. To implement these controls, Implement the concept of least permissions when it comes to user credential management. In the future, establishing a better process for their systems to ensure they're compliant, and establish their policies and procedures, which includes their playbooks. The reason is the potential impact from the loss of an asset is currently only rated at a medium.</br>
+<br><b>Question: </b>Which compliance regulations do Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?</br>
+<br><b>Response</b>-Currently, Botium Toys does not have the proper controls in place and may not be compliant with U.S. and international regulations and standards. Botium Toys need to adhere to the required regulations and standards related to keeping customer data private and this needs to be implemented immediately.</br>
 <br><h2>Step 3: Conduct the audit: Controls assessment </h2></br>
 <br><b> Goals </br> </b>
-<br>Fill out the Controls assessment sheet</br>
-<br>Review the list of Botium Toys’ assets</br>
-<br>Review each control name</br>
-<br>Review the control types and explanation </br>
-<br>Mark an X next to each control that needs to be implemented</br>
-<br>Note levels of priority (high, medium, and/or low; NA if not applicable)</br>
+<br>● Fill out the Controls assessment sheet</br>
+<br>● Review the list of Botium Toys’ assets</br>
+<br>● Review each control name</br>
+<br>● Review the control types and explanation </br>
+<br>● Mark an X next to each control that needs to be implemented</br>
+<br>● Note levels of priority (high, medium, and/or low; NA if not applicable)</br>
 <br> (The following are the Controls Assessment template provided during this activity and a template that I've filled out using the context of the previous steps and personal knowledge)</br>
 <br>[Controls assessment template.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270085/Controls.assessment.templete.pdf) </br>
 <br>[Controls assessment response.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270087/Controls.assessment._.Filled.out.pdf) </br>
 <br><h2>Step 4: Conduct the Audit: Compliance checklist </h2> </br>
-<br>Consider where the company conducts business and how they receive payments from customers.</br>
-<br>Click the boxes to select the compliance regulations and standards that Botium Toys needs to adhere to.</br>
-<br>Explain why the company needs to adhere to the selected compliance regulations and standards.</br>
+<br>● Consider where the company conducts business and how they receive payments from customers.</br>
+<br>● Click the boxes to select the compliance regulations and standards that Botium Toys needs to adhere to.</br>
+<br>● Explain why the company needs to adhere to the selected compliance regulations and standards.</br>
+<br> (The following are the Compliance checklist template provided during this activity and a template that I've filled out using the context of the previous steps and personal knowledge)</br>
 <br>[Compliance checklist template.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270105/Compliance.checklist.pdf)</br>
 <br>[Compliance checklist Response.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270106/Compliance.checklist._.Response.pdf)</br>
 <br><h2>Step 5: Analyze audit results</h2></br>
-<br>What were the audit scope and goals? </br>
-<br>What were the critical findings of the audit that need to be addressed immediately (i.e., What controls and/or policies need to be implemented immediately)?</br>
-<br>What were the findings (i.e., What controls and/or policies need to be addressed in the future)?</br>
-<br>How can you summarize your recommendations clearly and concisely to stakeholders?</br>
+<br>● What were the audit scope and goals? </br>
+<br>● What were the critical findings of the audit that need to be addressed immediately (i.e., What controls and/or policies need to be implemented immediately)?</br>
+<br>● What were the findings (i.e., What controls and/or policies need to be addressed in the future)?</br>
+<br>● How can you summarize your recommendations clearly and concisely to stakeholders?</br>
 <br><h2>Step 6: Communicate results and recommendations </br></h2>
-<br>A high-level summary of the audit goals is provided (4-6 sentences or bullet points)</br>
-<br>Critical findings are listed and explained</br>
-<br>Other findings are listed and explained</br>
-<br>The summary/recommendations clearly and concisely synthesize the most important information from the audit scope, goals, critical and other findings (5-10 sentences)</br>
+<br>● A high-level summary of the audit goals is provided (4-6 sentences or bullet points)</br>
+<br>● Critical findings are listed and explained</br>
+<br>● Other findings are listed and explained</br>
+<br>● The summary/recommendations clearly and concisely synthesize the most important information from the audit scope, goals, critical and other findings (5-10 sentences)</br>
+<br> (The following are the Stakeholder memoradum template provided during this activity and a template that I've filled out using the context of the previous steps and personal knowledge)</br>
 <br>[Stakeholder memorandum template.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270143/Stakeholder.memorandum.pdf)</br>
 <br>[Stakeholder memorandum response incomplete.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270144/Stakeholder.memorandum._.Response.incomplete.pdf)</br>
