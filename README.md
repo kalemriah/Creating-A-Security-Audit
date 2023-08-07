@@ -156,4 +156,4 @@ management</br>
 <br>● The summary/recommendations clearly and concisely synthesize the most important information from the audit scope, goals, critical and other findings (5-10 sentences)</br>
 <br> (The following are the Stakeholder memoradum template provided during this activity and a template that I've filled out using the context of the previous steps and personal knowledge)</br>
 <br>[Stakeholder memorandum template.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270143/Stakeholder.memorandum.pdf)</br>
-<br>[Stakeholder memorandum response incomplete.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270144/Stakeholder.memorandum._.Response.incomplete.pdf)</br>
+<br>[Stakeholder memorandum response.pdf](https://github.com/kalemriah/Creating-A-Security-Audit/files/12270144/Stakeholder.memorandum._.Response.incomplete.pdf)</br>
